@@ -28,21 +28,24 @@ main{
 .blog:last-child{
     margin-right: 0px;
 }
+.blog-title{
+margin-bottom: 5px;
+}
 .blog-image1{
     background-image: url(img/flow01.png);
-    height: 150px;
+    height: 165px;
     background-position: bottom;
     background-size: cover;
 }
 .blog-image2{
     background-image: url(img/flow02.png);
-    height: 150px;
+    height: 165px;
     background-position: bottom;
     background-size: cover;
 }
 .blog-image3{
     background-image: url(img/flow03.png);
-    height: 150px;
+    height: 165px;
     background-position: bottom;
     background-size: cover;
 }
